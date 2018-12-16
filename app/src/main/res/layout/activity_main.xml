@@ -19,6 +19,7 @@
         android:orientation="horizontal">
 
         <LinearLayout
+            android:id="@+id/koreanFoodBtn"
             android:layout_width="0dp"
             android:layout_height="100dp"
             android:layout_weight="1"
@@ -38,6 +39,7 @@
         </LinearLayout>
 
         <LinearLayout
+            android:id="@+id/bunsikBtn"
             android:layout_width="0dp"
             android:layout_height="100dp"
             android:layout_weight="1"
@@ -58,6 +60,7 @@
 
 
         <LinearLayout
+            android:id="@+id/japanesFoodBtn"
             android:layout_width="0dp"
             android:layout_height="100dp"
             android:layout_weight="1"
